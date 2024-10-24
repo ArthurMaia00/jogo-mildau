@@ -2,7 +2,7 @@
 
 **Grupo**: Arthur Maia, Betina Goulart e Richard Neto.
 
-**Github de cada participante da equipe**: Arthur: https://github.com/ArthurMaia00 Betina: Richard:
+**Github de cada participante da equipe**: Arthur: https://github.com/ArthurMaia00 Betina: Richard:https://github.com/richardbalar
 
 **Projeto**: Jogo estilo dinossauro do Google/Jogo estilo batalha.
 
