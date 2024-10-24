@@ -1,4 +1,4 @@
-**Resumo Apps e Games**
+**Jogo Mildau**
 
 **Grupo**: Arthur Maia, Betina Goulart e Richard Neto.
 
@@ -12,3 +12,4 @@
 
 
    
+**Material utilizado**: https://drive.google.com/drive/folders/1jH8ITi8sGzQVHAK6qHIYepP_zz3uY-Kr?usp=sharing
