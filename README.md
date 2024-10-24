@@ -18,5 +18,6 @@
     No andamento das pesquisas demos início à programação, porém fizemos testes em relação ao que estudamos e vimos que não seria possível a realização do projeto de jogo estilo dinossauro do Google pois possuía um estilo de programação muito complexa, e julgamos estar fora do nosso entendimento, assim, pesquisamos outros modelos de jogos para fazermos no site passado pela professora (vemfazermatematicaegames.blogspot.com), e nesse site achamos a programação para a realização de um jogo estilo batalha.
     Esse jogo possui mecânica de ataque e defesa, escolhemos esse pois ele possui um estilo de programação não tão complexo.
 
+Obs: jogo não finalizado.
  
 **Material utilizado**: https://drive.google.com/drive/folders/1jH8ITi8sGzQVHAK6qHIYepP_zz3uY-Kr?usp=sharing
