@@ -8,6 +8,7 @@
 
 **Inspiração**: Esilo de batalha do Jogo Pokemon
 
-**Objetivo**:
+**Objetivo do jogo**:Vão ter dois personagens jogáveis, um fazendeiro e um espantalho, eles lutam um contra o outro numa mecânica parecida com pokémon, com ataque, defesa, dano e vidas.
+
 
    
